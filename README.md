@@ -12,7 +12,10 @@
 > 공식 자료는 [두산로보틱스 공식 홈페이지](http://www.doosanrobotics.com/kr/)를 참고해 주세요.   
 > github (https://github.com/DoosanRobotics/doosan-robot2)
 
-# 🤖 미라클 모닝 앤 굿 나잇 – 협동로봇을 활용한 일상 루틴 자동화
+
+
+
+## 🤖 미라클 모닝 앤 굿 나잇 – 협동로봇을 활용한 일상 루틴 자동화
 
 ## 1. 📌 프로젝트 개요
 
