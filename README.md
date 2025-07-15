@@ -126,5 +126,5 @@
 
 ## More about project
 [▶️ PDF로 보기](https://drive.google.com/file/d/1PIJi63UDtDJ8HJV_bpYudiBwmgOHWbDJ/preview)
-[▶️ PPT로 보기]([https://drive.google.com/file/d/1PIJi63UDtDJ8HJV_bpYudiBwmgOHWbDJ/preview](https://docs.google.com/presentation/d/1ZgGMM3p90xRtlcVNSxgEPmmGPyBKwuy4/preview
-))
+
+[▶️ PPT로 보기](https://docs.google.com/presentation/d/1ZgGMM3p90xRtlcVNSxgEPmmGPyBKwuy4/preview)
