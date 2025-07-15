@@ -57,7 +57,8 @@
 
 ### 시스템 및 노드 아키텍처
 
-<img width="1225" height="685" alt="image" src="https://github.com/user-attachments/assets/b1472686-eb8c-4889-8c1c-bbeef5d97311" />
+<img width="1191" height="684" alt="image" src="https://github.com/user-attachments/assets/a1a7e4ab-75b8-4c33-9fe1-08f1ef5b4ffd" />
+
 
 
 ### 📦 퇴근 시 동작
